@@ -9,5 +9,5 @@ waooooo
 ## 网页学习
 7. [html](./html.html)  
 8. [css](./css.html)
-9. [JavaScript](./JavaScript.md)  
-
+9. [JavaScript](./JavaScript.md)
+10. [markdown思考](./thoughts.md)
