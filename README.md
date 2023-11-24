@@ -7,7 +7,7 @@ waooooo
 5. [git study](./git.md)
 6. [huigun study](./回滚.md)
 ## 网页学习
-7. [html](./html/.html)  
+7. [html](./html.html)  
 8. [css](./css.html)
 9. [JavaScript](./JavaScript.md)  
 
