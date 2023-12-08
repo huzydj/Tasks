@@ -15,3 +15,6 @@ waooooo
 [网页源码](https://github.com/huzydj/huzydj.github.io/blob/main/index.html)
 
 [网站应该是这个](https://huzydj.github.io/)，刚还在想这个网站怎么老是直接进readme，原来是这么来的。。。
+# 招新网站复刻
+[网页](https://huzydj.github.io/web-demo/)
+[网页源码](https://github.com/huzydj/web-demo/blob/main/index.html)
